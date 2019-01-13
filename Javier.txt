@@ -1,0 +1,12 @@
+nav{
+	background: #456;
+}
+aside{
+	background: green;
+}
+section{
+	background: blue;
+}
+footer{
+	background: red;
+}
